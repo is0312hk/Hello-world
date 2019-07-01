@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="hello">Hello world!</string>
+    <string name="tap_here">ここを押して</string>
+</resources>
